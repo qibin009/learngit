@@ -1,1 +1,2 @@
 fig3
+fix a bug
